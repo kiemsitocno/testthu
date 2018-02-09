@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 chuc nang 1
+=======
+chuc nang 1
+chuc nang 2
+chuc nang 3
+chuc nang x
+>>>>>>> 85c1470cadc0514d3b8101745644432024f63d26
